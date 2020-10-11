@@ -1,5 +1,5 @@
-# kthack2020-qpapatya-egitsel-materyal
-KTHACK2020 QPapatya Ekibi Eğitsel Materyal
+
+Sunum için <a href="https://drive.google.com/drive/folders/13qcp-OdaYfLF4PAOzobGuzmprEBfNqxs">BURAYA(Sayfa)</a> tıklayabilirsiniz.
 
 # KTHACK2020 - QPapatya Eğitim Materyali
 # Projenin Amacı

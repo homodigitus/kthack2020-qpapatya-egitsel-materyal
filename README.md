@@ -7,10 +7,11 @@ Bu projede, kuantum hesaplama ve kuantum programlama eğitimlerinin Türkçe’d
 
 # Hedef Kitlesi
 Eğitim materyalinin hedef kitlesini lise öğrencileri ve daha üst öğrenim seviyelerindeki insanlar oluşturmaktadır. Böyle bir yetişkin öğrenci kitlesinin öğrenim sürecinde birtakım beklentileri bulunmaktadır:
-●	Kendilerine birşeylerin öğretilmesini beklerler.
-●	Yetişkin öğrenciler çok çalışmak zorunda olmayı beklerler.
-●	Yetişkin öğrencinin beklentisi, işin meslekle ilgili olmasıdır.
-●	Yetişkin öğrencilerin beklentisi, yetişkin olarak muamele görmeyi beklemeleridir.
+
+-	Kendilerine birşeylerin öğretilmesini beklerler.
+-	Yetişkin öğrenciler çok çalışmak zorunda olmayı beklerler.
+-	Yetişkin öğrencinin beklentisi, işin meslekle ilgili olmasıdır.
+-	Yetişkin öğrencilerin beklentisi, yetişkin olarak muamele görmeyi beklemeleridir.
 
 Genel anlamda ifade edilmesine rağmen bu dört beklentinin her birinin bireysel ihtiyaçlar olarak yorumlanması gerekmektedir. Öğrenciler yaşa, cinsiyete, geçmişe, vb. göre farklılık gösterebilir. Öğrenciler birey olarak muamele görmeyi beklerler - (sınıf içinde ya da dışında) onlarla daha fazla ilgilenmek, öğrenmelerini onların ihtiyaçları ile ilişkili bir şekilde ve öğrenme potansiyelini geliştirerek öğrenme olasılıklarını artırır. Nezaket, empati ve samimiyet her zaman yetişkin öğrencilere zengin kazançlar sağlar.
 
@@ -27,9 +28,9 @@ Bu projede kuantum hesaplama ve kuantum programlama dünyasının temel kavramla
 # Bu materyal ile öğrenen kişilerin neleri öğrenmiş olmalarını bekliyoruz?
 Genel yaklaşımımızın bir ilkörneği olarak hazırladığımız materyal ile, hedef kitlenin
 
-●	Kuantum dolanıklık ile ilgili temel bilgileri
-●	Temel parçacıklar ve hareketleri
-●	Kuantum ışınlama ile ilgili temel bilgileri
+-	Kuantum dolanıklık ile ilgili temel bilgileri
+-	Temel parçacıklar ve hareketleri
+-	Kuantum ışınlama ile ilgili temel bilgileri
 
 Öğrenmiş olmalarını bekliyoruz.
 
@@ -51,9 +52,9 @@ Burada bir ilkörneği hazırlanmış eğitim materyalinin daha geniş bir sür�
 
 # Sözlük
 
-Entanglement                  : Dolanıklık
-Superposition                  : Üstdüşüm
-Quantum Teleportation    : Kuantum Işınlama
+- Entanglement                  : Dolanıklık
+- Superposition                  : Üstdüşüm
+- Quantum Teleportation    : Kuantum Işınlama
 
 
 
